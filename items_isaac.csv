@@ -1,0 +1,11 @@
+id,nombre,tipo,pool,calidad,mod_dano,mod_lagrimas,mod_velocidad,mod_rango,desbloqueado
+1,The Sad Onion,Pasivo,Treasure,3,0,0.7,0,0,1
+2,The Inner Eye,Pasivo,Treasure,2,0,-0.4,0,0,1
+4,Cricket's Head,Pasivo,Treasure,4,0.5,0,0,0,1
+12,Magic Mushroom,Pasivo,Boss,4,0.3,0,0.3,5.25,1
+64,Steam Sale,Pasivo,Shop,2,0,0,0,0,0
+118,Brimstone,Pasivo,Devil,4,0,-0.3,0,0,1
+169,Polyphemus,Pasivo,Treasure,4,4,-0.6,0,0,1
+182,Sacred Heart,Pasivo,Angel,4,1,-0.4,-0.25,4,1
+331,Godhead,Pasivo,Angel,4,0.5,-0.3,-0.15,0,0
+625,Mega Mush,Activo,Secret,4,4,0,-0.5,0,0
