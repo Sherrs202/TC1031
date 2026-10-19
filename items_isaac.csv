@@ -1,11 +1,361 @@
 id,nombre,tipo,pool,calidad,mod_dano,mod_lagrimas,mod_velocidad,mod_rango,desbloqueado
-1,The Sad Onion,Pasivo,Treasure,3,0,0.7,0,0,1
-2,The Inner Eye,Pasivo,Treasure,2,0,-0.4,0,0,1
-4,Cricket's Head,Pasivo,Treasure,4,0.5,0,0,0,1
-12,Magic Mushroom,Pasivo,Boss,4,0.3,0,0.3,5.25,1
-64,Steam Sale,Pasivo,Shop,2,0,0,0,0,0
-118,Brimstone,Pasivo,Devil,4,0,-0.3,0,0,1
-169,Polyphemus,Pasivo,Treasure,4,4,-0.6,0,0,1
-182,Sacred Heart,Pasivo,Angel,4,1,-0.4,-0.25,4,1
-331,Godhead,Pasivo,Angel,4,0.5,-0.3,-0.15,0,0
-625,Mega Mush,Activo,Secret,4,4,0,-0.5,0,0
+491,Acid Baby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+541,Marrow,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+668,Dad's Note,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+647,4.5 Volt,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+658,Giant Cell,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+79,The Mark,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+177,Portable Slot,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+66,The Hourglass,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+32,Wire Coat Hanger,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+486,Dull Razor,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+213,Lost Contact,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+207,Ball of Bandages,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+497,Camo Undies,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+542,Slipped Rib,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+10,Halo of Flies,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+214,Anemic,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+186,Blood Rights,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+489,D Infinity,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+682,Worm Friend,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+5,My Reflection,Pasivo,Treasure,2,0.00,0.00,0.00,0.00,1
+458,Belly Button,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+663,Tooth and Nail,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+199,Mom's Key,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+77,My Little Unicorn,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+330,Soy Milk,Pasivo,Treasure,2,-0.80,1.20,0.00,0.00,1
+182,Sacred Heart,Pasivo,Angel,4,1.00,-0.40,-0.25,4.00,1
+481,Dataminer,Activo,Treasure,0,0.00,0.00,0.00,0.00,1
+171,Spider Butt,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+672,A Pound of Flesh,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+3,Spoon Bender,Pasivo,Treasure,3,0.00,0.00,0.00,0.00,1
+469,Depression,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+118,Brimstone,Pasivo,Devil,4,0.00,-0.30,0.00,0.00,1
+242,Infamy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+73,Cube of Meat,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+250,Bogo Bombs,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+657,Vasculitis,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+530,Death's List,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+68,Technology,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+253,Magic Scab,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+641,Akeldama,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+89,Spider Bite,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+528,Angelic Prism,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+728,Gello,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+730,Glass Eye,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+476,D1,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+257,Fire Mind,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+237,Death's Touch,Pasivo,Treasure,3,1.50,-0.10,0.00,0.00,1
+37,Mr. Boom,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+233,Tiny Planet,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+456,Midnight Snack,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+665,Guppy's Eye,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+459,Sinus Infection,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+724,Hypercoagulation,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+695,Bloody Gust,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+731,Stye,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+218,Placenta,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+105,The D6,Activo,Treasure,4,0.00,0.00,0.00,0.00,1
+644,Consolation Prize,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+703,Esau Jr.,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+686,Soul Locket,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+225,Gimpy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+676,Empty Heart,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+26,Rotten Meat,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+55,Mom's Eye,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+189,SMB Super Fan,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+81,Dead Cat,Pasivo,Devil,3,0.00,0.00,0.00,0.00,1
+713,Sumptorium,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+72,Rosary,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+252,Little Baggy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+80,The Pact,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+25,Breakfast,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+697,Vanishing Twin,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+638,Eraser,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+495,Ghost Pepper,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+21,The Compass,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+579,Spirit Sword,Pasivo,Treasure,4,0.00,0.00,0.00,0.00,1
+477,Void,Activo,Devil,4,0.00,0.00,0.00,0.00,1
+50,Steven,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+169,Polyphemus,Pasivo,Treasure,4,4.00,-0.60,0.00,0.00,1
+212,Guppy's Collar,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+35,The Necronomicon,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+533,Trisagion,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+60,The Ladder,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+230,Abaddon,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+520,Jumper Cables,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+248,Hive Mind,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+499,Eucharist,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+636,R Key,Activo,Secret,4,0.00,0.00,0.00,0.00,0
+496,Euthanasia,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+505,Poke Go,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+1,The Sad Onion,Pasivo,Treasure,3,0.00,0.70,0.00,0.00,1
+13,The Virus,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+12,Magic Mushroom,Pasivo,Boss,4,0.30,0.00,0.30,5.25,1
+484,Wait What?,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+246,Blue Map,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+473,Big Chubby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+679,Lil Abaddon,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+461,Parasitoid,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+509,Bloodshot Eye,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+262,Missing Page 2,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+694,Heartbreak,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+399,Maw of the Void,Pasivo,Devil,4,0.00,0.00,0.00,0.00,0
+181,White Pony,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+190,Pyro,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+511,Angry Fly,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+691,Sacred Orb,Pasivo,Angel,4,0.00,0.00,0.00,0.00,1
+684,Hungry Soul,Pasivo,Devil,2,0.00,0.00,0.00,0.00,0
+705,Dark Arts,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+669,Sausage,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+721,TMTRAINER,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+42,Bob's Rotten Head,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+544,Pointy Rib,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+14,Roid Rage,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+673,Redemption,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+719,Keeper's Box,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+64,Steam Sale,Pasivo,Shop,2,0.00,0.00,0.00,0.00,0
+58,Book of Shadows,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+678,C Section,Pasivo,Treasure,4,0.00,0.00,0.00,0.00,1
+51,Pentagram,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+184,Holy Grail,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+23,Dinner,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+331,Godhead,Pasivo,Angel,4,0.50,-0.30,-0.15,0.00,0
+470,Hushy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+254,Blood Clot,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+2,The Inner Eye,Pasivo,Treasure,3,0.00,-0.40,0.00,0.00,1
+625,Mega Mush,Activo,Secret,4,4.00,0.00,-0.50,0.00,0
+463,Sulfuric Acid,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+639,Yuck Heart,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+19,Boom!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+240,Experimental Treatment,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+537,Lil Spewer,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+707,Supper,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+28,The Belt,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+726,Hemoptysis,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+30,Mom's Heels,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+457,Cone Head,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+702,Vengeful Spirit,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+251,Starter Deck,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+667,Strawman,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+478,Pause,Activo,Treasure,1,0.00,0.00,0.00,0.00,1
+261,Proptosis,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+193,MEAT!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+85,Deck of Cards,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+543,Hallowed Ground,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+227,Piggy Bank,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+680,Montezuma's Revenge,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+223,Pyromaniac,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+513,Bozo,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+480,Compost,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+660,Card Reading,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+258,Missing No.,Pasivo,Secret,0,0.00,0.00,0.00,0.00,1
+732,Mom's Ring,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+519,Lil Delirium,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+483,Mama Mega!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+661,Quints,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+689,Glitched Crown,Pasivo,Secret,4,0.00,0.00,0.00,0.00,1
+255,Screw,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+75,PHD,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+149,Ipecac,Pasivo,Treasure,4,4.00,-0.30,0.00,0.00,1
+243,Trinity Shield,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+39,Mom's Bra,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+723,Spindown Dice,Activo,Secret,4,0.00,0.00,0.00,0.00,1
+178,Holy Water,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+725,IBS,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+538,Marbles,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+48,Cupid's Arrow,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+245,20/20,Pasivo,Treasure,4,0.00,-0.20,0.00,0.00,1
+693,The Swarm,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+222,Anti-Gravity,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+646,Brimstone Bombs,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+712,Lemegeton,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+44,Teleport!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+462,Eye of Belial,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+90,The Small Rock,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+526,7 Seals,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+700,Echo Chamber,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+194,Magic 8 Ball,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+674,Spirit Shackles,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+692,Sanguine Bond,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+263,Clear Rune,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+92,Super Bandage,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+701,Isaac's Tomb,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+522,Telekinesis,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+654,False PHD,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+216,Ceremonial Robes,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+249,There's Options,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+518,Buddy in a Box,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+664,Binge Eater,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+232,Stop Watch,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+215,Goat Head,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+259,Dark Matter,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+681,Lil Portal,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+84,We Need to Go Deeper!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+173,Mitre,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+83,The Nail,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+523,Moving Box,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+74,A Quarter,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+41,Mom's Pad,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+34,The Book of Belial,Activo,Devil,3,0.00,0.00,0.00,0.00,1
+502,Large Zit,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+677,Astral Projection,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+642,Magic Skin,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+710,Bag of Crafting,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+472,King Baby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+7,Blood of the Martyr,Pasivo,Treasure,3,0.00,0.00,0.00,0.00,1
+670,Options?,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+727,Ghost Bombs,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+226,Black Lotus,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+4,Cricket's Head,Pasivo,Treasure,4,0.50,0.00,0.00,0.00,1
+487,Potato Peeler,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+535,Blanket,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+198,Box,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+508,Mom's Razor,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+24,Dessert,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+475,Plan C,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+211,Spiderbaby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+690,Belly Jelly,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+655,Spin to Win,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+466,Contagion,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+649,Fruity Plum,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+33,The Bible,Activo,Shop,1,0.00,0.00,0.00,0.00,1
+185,Dead Dove,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+49,Shoop Da Whoop!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+714,Recall,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+643,Revelation,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+503,Little Horn,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+217,Mom's Wig,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+540,Flat Stone,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+16,Raw Liver,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+696,Salvation,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+239,Key Piece 2,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+241,Contract From Below,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+465,Analog Stick,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+22,Lunch,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+93,The Gamekid,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+455,Dad's Lost Coin,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+183,Toothpicks,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+18,A Dollar,Pasivo,Secret,3,0.00,0.00,0.00,0.00,1
+69,Chocolate Milk,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+683,Bone Spurs,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+229,Monstro's Lung,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+91,Spelunker Hat,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+729,Decap Attack,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+88,Little Chubby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+708,Stapler,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+54,Treasure Map,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+492,YO LISTEN!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+498,Duality,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+175,Dad's Key,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+640,Urn of Souls,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+659,Tropicamide,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+460,Glaucoma,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+500,Sack of Sacks,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+704,Berserk!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+471,Lil Monstro,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+45,Yum Heart,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+153,Mutant Spider,Pasivo,Treasure,4,0.00,-0.50,0.00,0.00,1
+531,Haemolacria,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+174,Rainbow Baby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+238,Key Piece 1,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+188,Abel,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+652,Cube Baby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+206,Guillotine,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+260,Black Candle,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+204,Fanny Pack,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+504,Brown Nugget,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+176,Stem Cells,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+479,Smelter,Activo,Shop,3,0.00,0.00,0.00,0.00,1
+224,Cricket's Body,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+210,Gnawed Leaf,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+651,Star of Bethlehem,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+264,Smart Fly,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+228,Mom's Perfume,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+716,Keeper's Sack,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+493,Adrenaline,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+70,Growth Hormones,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+86,Monstro's Tooth,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+562,Rock Bottom,Pasivo,Secret,3,0.00,0.00,0.00,0.00,0
+529,Pop!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+706,Abyss,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+172,Sacrificial Dagger,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+63,The Battery,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+507,Sharp Straw,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+57,Distant Admiration,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+196,Squeezy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+197,Jesus Juice,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+467,Finger!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+525,Leprosy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+36,The Poop,Activo,Treasure,0,0.00,0.00,0.00,0.00,1
+192,Telepathy for Dummies,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+474,Broken Glass Cannon,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+8,Brother Bobby,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+516,Sprinkler,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+6,Number One,Pasivo,Treasure,2,0.00,0.00,0.00,0.00,1
+76,X-Ray Vision,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+179,Fate,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+244,Tech.5,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+191,3 Dollar Bill,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+17,Skeleton Key,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+494,Jacob's Ladder,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+236,E. Coli,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+524,Technology Zero,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+687,Friend Finder,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+671,Candy Heart,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+536,Sacrificial Altar,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+532,Lachryphagy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+515,Mystery Gift,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+219,Old Bandage,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+711,Flip,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+56,Lemon Mishap,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+202,Midas' Touch,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+40,Kamikaze!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+653,Vade Retro,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+67,Sister Maggy,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+221,Rubber Cement,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+715,Hold,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+29,Mom's Underwear,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+517,Fast Bombs,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+247,BFFS!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+521,Coupon,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+510,Delirious,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+52,Dr. Fetus,Pasivo,Treasure,4,0.00,-0.40,0.00,0.00,1
+464,Glyph of Balance,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+685,Jar of Wisps,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+514,Broken Modem,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+709,Suplex!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+208,Champion Belt,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+717,Keeper's Kin,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+200,Mom's Eyeshadow,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+180,The Black Bean,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+720,Everything Jar,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+114,Mom's Knife,Pasivo,Treasure,4,0.00,0.00,0.00,0.00,1
+506,Backstabber,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+220,Sad Bombs,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+20,Transcendence,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+195,Mom's Coin Purse,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+82,Lord of the Pit,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+485,Crooked Penny,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+27,Wooden Spoon,Pasivo,Boss,1,0.00,0.00,0.00,0.00,1
+482,Clicker,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+31,Mom's Lipstick,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+698,Twisted Pair,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+201,Iron Bar,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+645,Tinytoma,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+527,Mr. ME!,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+9,Skatole,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+539,Mystery Egg,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+47,Doctor's Remote,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+53,Magneto,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+688,Inner Child,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+234,Infestation 2,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+205,Sharp Plug,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+11,1up!,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+62,Charm of the Vampire,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+501,Greed's Gullet,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+46,Lucky Foot,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+71,Mini Mush,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+78,Book of Revelations,Activo,Library,3,0.00,0.00,0.00,0.00,1
+203,Humbling Bundle,Pasivo,SinDatos,-1,0.00,0.00,0.00,0.00,1
+488,Metronome,Activo,SinDatos,-1,0.00,0.00,0.00,0.00,1
